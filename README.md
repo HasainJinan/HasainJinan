@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasain Jinan</h1>
-<h3 align="center">A passionate, beginner frontend developer from Bangladesh.</h3>
+<h3 align="center">I am a passionate, beginner frontend developer from Bangladesh. I was born June 7, 2008 (06/07/08). And obviously I love gaming.</h3>
 
 - I’m in the STEAM Center's **Full Stack Development** course.
 - I like playing **Roblox.**
