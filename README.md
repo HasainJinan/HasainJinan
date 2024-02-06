@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hasain Jinan</h1>
 <h3 align="center">I am a passionate, beginner frontend developer from Bangladesh. I was born June 7, 2008 (06/07/08). And obviously I love gaming.</h3>
 
-- I’m in the STEAM Center's **Full Stack Development** course.
-- I like playing **Roblox.**
-- I have love **Comedy.**
-- My youtube channel is <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">**here.**</a>
-- My birthday is in **Numerical Order.**
-- I am the **Eldest** of **3 Children.**
+- I’m in the STEAM Center's ***Full Stack Development*** course.
+- I like playing ***Roblox.***
+- I have love ***Comedy.***
+- My youtube channel is <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">***here.***</a>
+- My birthday is in ***Numerical Order.***
+- I am the ***Eldest*** of ***3 Children.***
 
 
 <h3 align="left"></h3>
