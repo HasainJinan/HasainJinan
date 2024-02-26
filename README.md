@@ -3,7 +3,7 @@
 
 - I’m in the STEAM Center's ***Full Stack Development*** course.
 - I like playing ***Roblox.***
-- I have love ***Comedy.***
+- I have a love for ***Comedy.***
 - My youtube channel is <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">***here.***</a>
 - My birthday is in ***Numerical Order.***
 - I am the ***Eldest*** of ***3 Children.***
